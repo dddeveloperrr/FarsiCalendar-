@@ -8,3 +8,8 @@
 ولی هنوز تکمیل نشده. بعد از تکمیل شدن ماه های هجری شمسی، میخوام ماه های میلادی  و قمری رو شروع کنم
 
 
+استفاده از این کلاس راحته. یه مثال میزنم
+
+    hejriShamsi object = new hejriShamsi();
+		String rooydad = object.get(7, "tir");
+		System.out.println(rooydad);

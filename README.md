@@ -10,6 +10,6 @@
 
 استفاده از این کلاس راحته. یه مثال میزنم
 
-                hejriShamsi object = new hejriShamsi();
+            hejriShamsi object = new hejriShamsi();
 		String rooydad = object.get(7, "tir");
 		System.out.println(rooydad);

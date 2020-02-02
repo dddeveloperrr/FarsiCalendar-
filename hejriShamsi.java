@@ -458,19 +458,19 @@ public class hejriShamsi {
 
         } else if (maah.equals("azar")) {
 
-            returnvalue = aban.get(rooz);
+            returnvalue = azar.get(rooz);
 
         } else if (maah.equals("dey")) {
 
-            returnvalue = aban.get(rooz);
+            returnvalue = dey.get(rooz);
 
         } else if (maah.equals("bahman")) {
 
-            returnvalue = aban.get(rooz);
+            returnvalue = bahman.get(rooz);
 
         } else if (maah.equals("esfand")) {
 
-            returnvalue = aban.get(rooz);
+            returnvalue = esfand.get(rooz);
         }
 
         return returnvalue;

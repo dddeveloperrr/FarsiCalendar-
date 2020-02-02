@@ -5,6 +5,8 @@
 <div dir="rtl">&nbsp;</div>
 <h2 style="text-align: right;">استفاده از این کلاس راحته. یه مثال میزنم:</h2>
 <p>hejriShamsi object = new hejriShamsi();<br /> String rooydad = object.get(7, "tir");<br /> System.out.println(rooydad);</p>
+<p>Output:</p>
+<p>انفجار دفتر حزب جمهوری اسلامی و شهادت دکتر بهشتی و 72 نفر از اعضای حزب-روز قوه قضاییه-</p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">با این کد به راحتی میتونید رویداد های ۷ تیر رو به دست بیارید. اگه در یک روز چندتا رویداد باشه با علامت - از همدیگه جدا شدن</p>
 <p style="text-align: right;">رویداد ها برای ماه هجری شمسی هست و رویداد های ماه میلادی و قمری رو ننوشتم هنوز</p>

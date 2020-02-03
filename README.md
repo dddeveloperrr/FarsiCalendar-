@@ -7,7 +7,7 @@
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">یک کلاس نوشتم که رویداد های هر روز رو میتونید باهاش بفهمید. استفاده از این کلاس خیــــلی راحت هست. کافیه توی پروژتون یک کلاس به نام</p>
 <p style="text-align: right;">FarsiCalendar</p>
-<p style="text-align: left;">بسازید و کد هایی که نوشتم رو توش کپی پیست کنید. در پایین یه مثال هم میزنم</p>
+<p style="text-align: left;">بسازید و کد هایی که نوشتم رو توش کپی پیست کنید.</p>
 <div dir="rtl">&nbsp;</div>
 <h2 style="text-align: right;">استفاده از این کلاس راحته. یه مثال میزنم</h2>
 <p><span class="css-truncate css-truncate-target"><a id="4b42d5b8b69bc14caeedfea4a1d4512e-61f121b620b518254358199044002b9164287492" class="js-navigation-open" title="FarsiCalendar.java" href="https://github.com/dddeveloperrr/Calendar/blob/master/FarsiCalendar.java">FarsiCalendar&nbsp;</a></span>object = new <span class="css-truncate css-truncate-target"><a id="4b42d5b8b69bc14caeedfea4a1d4512e-61f121b620b518254358199044002b9164287492" class="js-navigation-open" title="FarsiCalendar.java" href="https://github.com/dddeveloperrr/Calendar/blob/master/FarsiCalendar.java">FarsiCalendar&nbsp;</a></span>();<br /> String rooydad = object.get(7, "tir");<br /> System.out.println(rooydad);</p>

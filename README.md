@@ -24,7 +24,7 @@
 <p style="text-align: right;"><strong>سوم</strong>: باید رویداد های 5 ژانویه رو بخونید</p>
 <p style="text-align: right;"><strong>چهارم</strong>: باید رویداد های 19 محرم رو بخونید</p>
 <p style="text-align: right;">&nbsp;</p>
-<p style="text-align: right;">مجموع این رویداد ها میشن رویداد های 14 بهمن در تقویم ما نوشته میشن</p>
+<p style="text-align: right;">مجموع این رویداد ها میشن رویداد های 14 بهمن که در تقویم ما نوشته میشن</p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">برای تبدیل هجری شمسی به قمری و میلادی هم باید یک متد داخل همین کلاس بنویسم که فعلا وقت نکردم</p>

@@ -1130,23 +1130,23 @@ public class FarsiCalendar {
         september.put(31,"");
 
 
-        october.put(1,"");
+        october.put(1,"روز جهانی سالمندان-");
         october.put(2,"");
         october.put(3,"");
         october.put(4,"");
-        october.put(5,"");
+        october.put(5,"روز جهانی معلم-");
         october.put(6,"");
         october.put(7,"");
         october.put(8,"");
-        october.put(9,"");
-        october.put(10,"");
-        october.put(11,"");
+        october.put(9,"روز جهانی پست-");
+        october.put(10,"روز جهانی مبارزه با حکم اعدام-");
+        october.put(11,"روز جهانی دختر-");
         october.put(12,"");
         october.put(13,"");
-        october.put(14,"");
-        october.put(15,"");
-        october.put(16,"");
-        october.put(17,"");
+        october.put(14,"روز جهانی استاندارد-");
+        october.put(15,"روز جهانی عصای سفید-");
+        october.put(16,"روز جهانی غذا-");
+        october.put(17,"روز جهانی ریشه کنی فقر-");
         october.put(18,"");
         october.put(19,"");
         october.put(20,"");
@@ -1176,18 +1176,18 @@ public class FarsiCalendar {
         november.put(11,"");
         november.put(12,"");
         november.put(13,"");
-        november.put(14,"");
-        november.put(15,"");
+        november.put(14,"روز جهانی دیابت-");
+        november.put(15,"روز جهانی فلسفه-");
         november.put(16,"");
         november.put(17,"");
         november.put(18,"");
         november.put(19,"");
-        november.put(20,"");
+        november.put(20,"روز جهانی کودک-");
         november.put(21,"");
         november.put(22,"");
         november.put(23,"");
         november.put(24,"");
-        november.put(25,"");
+        november.put(25,"روز جهانی مبارزه با خشونت علیه زنان-");
         november.put(26,"");
         november.put(27,"");
         november.put(28,"");
@@ -1196,9 +1196,9 @@ public class FarsiCalendar {
         november.put(31,"");
 
 
-        december.put(1,"");
+        december.put(1,"روز جهانی ایدز-");
         december.put(2,"");
-        december.put(3,"");
+        december.put(3,"روز جهانی معلولان-");
         december.put(4,"");
         december.put(5,"");
         december.put(6,"");
@@ -1220,7 +1220,7 @@ public class FarsiCalendar {
         december.put(22,"");
         december.put(23,"");
         december.put(24,"");
-        december.put(25,"");
+        december.put(25,"جشن کریسمس-");
         december.put(26,"");
         december.put(27,"");
         december.put(28,"");

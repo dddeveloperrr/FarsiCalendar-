@@ -828,16 +828,9 @@ public class FarsiCalendar {
         zihaje.put(30,"");
 
 
-
         //--------------------------------------------------------------------------------------------------------------------\\
         //---------------------------------------------------------ماه های میلادی-----------------------------------------------------\\
         //--------------------------------------------------------------------------------------------------------------------\\
-
-
-
-
-
-
 
 
         january.put(1,"جشن آغاز سال نو میلادی-");
@@ -873,7 +866,6 @@ public class FarsiCalendar {
         january.put(31,"");
 
 
-
         february.put(1,"");
         february.put(2,"");
         february.put(3,"");
@@ -907,7 +899,6 @@ public class FarsiCalendar {
         february.put(31,"");
 
 
-
         march.put(1,"");
         march.put(2,"");
         march.put(3,"");
@@ -939,7 +930,6 @@ public class FarsiCalendar {
         march.put(29,"");
         march.put(30,"");
         march.put(31,"");
-
 
 
         april.put(1,"");
@@ -1040,6 +1030,7 @@ public class FarsiCalendar {
         june.put(30,"");
         june.put(31,"");
 
+
         july.put(1,"");
         july.put(2,"");
         july.put(3,"");
@@ -1138,6 +1129,7 @@ public class FarsiCalendar {
         september.put(30,"روز جهانی ناشنوایان-روز جهانی ترجمه و مترجم-");
         september.put(31,"");
 
+
         october.put(1,"");
         october.put(2,"");
         october.put(3,"");
@@ -1169,6 +1161,7 @@ public class FarsiCalendar {
         october.put(29,"");
         october.put(30,"");
         october.put(31,"");
+
 
         november.put(1,"");
         november.put(2,"");
@@ -1235,30 +1228,10 @@ public class FarsiCalendar {
         december.put(30,"");
         december.put(31,"");
 
-
-
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    // با استفاده از این متد میتونیم رویدداد هر روزی رو بدست بیارم ( مال هر ماهی باشه فرق نداره، قمری شمسی میلادی)
     public String get(int rooz, String maah) {
 
         String returnvalue = "";

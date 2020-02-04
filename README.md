@@ -36,7 +36,15 @@
 <p style="text-align: right;">مجموع این رویداد ها میشن رویداد های 14 بهمن که در تقویم ما نوشته میشن</p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">&nbsp;</p>
-<p style="text-align: right;">برای تبدیل هجری شمسی به قمری و میلادی هم باید یک متد داخل همین کلاس بنویسم که فعلا وقت نکردم</p>
+<p style="text-align: right;">برای تبدیل هجری شمسی به قمری و میلادی هم باید یک متد داخل همین کلاس بنویسم که فعلا وقت نکردم (دوستان، بعد از کلی سرچ در گوگل و گشتن در وبسایت های مختلف، کدهای زیادی رو برای تبدیل تاریخ میلادی به شمسی پیدا کردم ولی ظاهرا همشون ایراد داشتن به نوعی. ولی کامل ترین کتاب خانه ای که برای تبدیل تمام انواع تقویم ها پیدا کردم مال شرکت معروف </p>
+<p style="text-align: right;">IBM</p>
+<p style="text-align: right;">هست که میتونید تمااااام تقویم ها رو باهاش تبدیل کنید. ادرس سایتش رو میزارم براتون. همچنین توی یوتوب هم اگه اسمشو سرچ کنید احتمالا فیلم های اموزشی زیادی ازش پیدا کنین. اسم کتابخانه این هست</p>
+<p style="text-align: right;">ICU4J&nbsp;</p>
+<p style="text-align: right;">ادرس سایتش هم اینه</p>
+<p style="text-align: right;"><a href="https://unicode-org.github.io/icu-docs/apidoc/released/icu4j/">https://unicode-org.github.io/icu-docs/apidoc/released/icu4j/</a></p>
 <p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;">&nbsp;</p>
+<h2 style="text-align: center;">&nbsp;</h2>
+<p>&nbsp;</p>
 <h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;">برداشته شده&nbsp; time.ir دوستان تمامی اطلاعات از سایت<br /><br /></h2>

@@ -14,16 +14,15 @@
 <p>String rooydad = object.get(7, "tir");<br /> System.out.println(rooydad);</p>
 <p>Output:</p>
 <p>انفجار دفتر حزب جمهوری اسلامی و شهادت دکتر بهشتی و 72 نفر از اعضای حزب-روز قوه قضاییه-</p>
-<p style="text-align: right;">&nbsp;</p>
+<hr />
 <p>String rooydad = object.get(12, "moharam");<br /> System.out.println(rooydad);</p>
 <p>Output:</p>
 <p>شهادت امام زین العابدین علیه السلام-</p>
-<p style="text-align: right;">&nbsp;</p>
-<p style="text-align: right;">&nbsp;</p>
+<hr />
 <p>String rooydad = object.get(8, "march");<br /> System.out.println(rooydad);</p>
 <p>Output:</p>
 <p>روزجهانی زنان-</p>
-<p style="text-align: right;">&nbsp;</p>
+<hr />
 <p style="text-align: right;">با این کد به راحتی میتونید رویداد های ۷ تیر، ۱۲ محرم و ۸ مارس رو به دست بیارید. اگه در یک روز چندتا رویداد باشه با علامت - از همدیگه جدا شدن</p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: right;">&nbsp;برای اینکه بفهمید در تقویم، مثلا در روز 14 بهمن چه رویداد هایی وجود داره، باید اول بفهمید که 14 بهمن چندم (مثلا ژانویه) میشه و چندم ( مثلا محرم) میشه. بعدش برید رویداد تک تک اون روز ها رو بخونید</p>

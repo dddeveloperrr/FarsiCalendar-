@@ -792,8 +792,8 @@ public class FarsiCalendar {
         ziqade.put(26,"");
         ziqade.put(27,"");
         ziqade.put(28,"");
-        ziqade.put(29,"شهادت امام محمد تقی علیه السلام-");
-        ziqade.put(30,"");
+        ziqade.put(29,"");
+        ziqade.put(30,"شهادت امام محمد تقی علیه السلام-");
 
 
         zihaje.put(1,"");

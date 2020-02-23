@@ -47,5 +47,4 @@
 <p dir="rtl">&nbsp;</p>
 <h2 style="text-align: center;">&nbsp;</h2>
 <p>&nbsp;</p>
-<h2 style="text-align: center;">&nbsp;</h2>
-<h2 style="text-align: center;" dir="rtl" >برداشته شده&nbsp; time.ir دوستان تمامی اطلاعات از سایت<br /><br /></h2>
+<h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;" dir="rtl" >برداشته شده&nbsp; time.ir دوستان تمامی اطلاعات از سایت<br /><br /></h2>

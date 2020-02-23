@@ -44,6 +44,4 @@
 <p dir="rtl">ادرس سایتش هم اینه</p>
 <p dir="rtl"><a href="https://unicode-org.github.io/icu-docs/apidoc/released/icu4j/">https://unicode-org.github.io/icu-docs/apidoc/released/icu4j/</a></p>
 
-<p>&nbsp;</p>
-<h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;" >برداشته شده&nbsp; time.ir دوستان تمامی اطلاعات از سایت</h2>

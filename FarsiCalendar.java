@@ -60,7 +60,7 @@ public class FarsiCalendar {
         farvardin.put(7, "");
         farvardin.put(8, "");
         farvardin.put(9, "");
-        farvardin.put(10, "روز جانباز-جشن آبانگاه-");
+        farvardin.put(10, "جشن آبانگاه-");
         farvardin.put(11, "");
         farvardin.put(12, "روز جمهوری اسلامی-");
         farvardin.put(13, "جشن سیزده به در-");

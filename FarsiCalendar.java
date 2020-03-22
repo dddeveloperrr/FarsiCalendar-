@@ -67,7 +67,7 @@ public class FarsiCalendar {
         farvardin.put(14, "");
         farvardin.put(15, "");
         farvardin.put(16, "");
-        farvardin.put(17, "سروش روز، جشن سروشگان-روز جوان-");
+        farvardin.put(17, "سروش روز، جشن سروشگان-");
         farvardin.put(18, "");
         farvardin.put(19, "فروردین روز، جشن فروردینگان-");
         farvardin.put(20, "");
